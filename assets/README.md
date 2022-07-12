@@ -1,0 +1,9 @@
+-starting off i gave the html a title
+-i then added alt atributes to all images
+-gave proper header
+-change some divs to nav
+-changed some divs to section 
+-used the footer tag
+-removed the . from some of the CSS tags
+-got the first link to work
+-condensed some of the CSS
